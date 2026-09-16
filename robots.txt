@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mac-c-training.github.io/macc-training-landing/sitemap-index.xml
